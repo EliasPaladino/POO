@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Clase 2.iml" filepath="$PROJECT_DIR$/.idea/Clase 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicioFunciones/ejercicioFunciones.iml" filepath="$PROJECT_DIR$/ejercicioFunciones/ejercicioFunciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saddsads/saddsads.iml" filepath="$PROJECT_DIR$/saddsads/saddsads.iml" />
+    </modules>
+  </component>
+</project>
